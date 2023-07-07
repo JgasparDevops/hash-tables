@@ -1,2 +1,2 @@
 # hash-tables
-Hash tables in JS
+Example of how to make a hash table in javascript
